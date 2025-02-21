@@ -33,5 +33,21 @@ DATA PRE-PROCESSING:
 * Feature Scaleing means doing ina way that 
 * train test split  -  diving the dataset in training and testing .
                        70% Training 30% TESTING or 80% Training 20% Testing .
-                        K-FOLD CROSS VALIDATION.
-* 
+                        K-FOLD CROSS VALIDATION - (In K-Fold Cross Validation, we split the dataset into k number of subsets (known as folds) then we perform training on                            the all the subsets but leave one(k-1) subset for the evaluation of the trained model. In this method, we iterate k times with a different subset                            reserved for testing purpose each time.)
+
+
+* Trining test set to evaluate the model performance to avoid the overfitting . 
+* Feature Engineering is the process of transforming raw data into features that are suitable for machine learning models. In other words, it is the process of selecting, extracting, and transforming the most relevant features from the available data to build more accurate and efficient machine learning models.
+NEURAL NETWORK ARTITECTURE :
+* Input layer 13 neurons at input layer 
+* output layer
+* hidden layer
+* optimization - 
+* lost function -  actaul and predicted value 
+* Training and evalutaion. using mean square error & mean absoute error .
+* Results
+* Model improvents
+  extra  info :  size of batch -  no of items are avaiable 
+
+
+
